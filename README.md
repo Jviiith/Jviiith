@@ -34,7 +34,7 @@ Built the platforms, systems, database scripts and infrastructure, which were re
 
 ---
 
-### 🔷 [CI/CD Data Pipeline with Jenkins and Docker Cloud]()
+### 🔷 [CI/CD Data Pipeline with Jenkins and Docker Cloud](https://github.com/Jviiith/Jenkins-101)
 
 Implemented a CI/CD data pipeline using Jenkins and Docker Cloud to automate code retrieval and remote Python script execution
 
