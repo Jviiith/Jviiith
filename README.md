@@ -38,7 +38,7 @@ Built the platforms, systems, database scripts and infrastructure, which were re
 
 Implemented a CI/CD data pipeline using Jenkins and Docker Cloud to automate code retrieval and remote Python script execution
 
-**Stack:** `Git` `Jenkins` `Docker` `Python` `Postgresql`
+**Stack:** `Git` `Jenkins` `Docker` `Python` 
 **Impact:** Automated data pipelines that reduce manual intervention while providing consistent, isolated and dynamically provisioned build environments
 
 ---
